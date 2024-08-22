@@ -1,0 +1,28 @@
+,id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+0,1eqhsio,Career advice request: Is Data Engineering what I actually want? Coming from a Backend background.,29,25,Mojesi123,2024-08-12 16:11:08,https://www.reddit.com/r/dataengineering/comments/1eqhsio/career_advice_request_is_data_engineering_what_i/,False,False,False,False
+1,1eqgyn7,How do you guys create quality for the ETL?,25,9,Next-Information6352,2024-08-12 15:38:26,https://www.reddit.com/r/dataengineering/comments/1eqgyn7/how_do_you_guys_create_quality_for_the_etl/,False,False,False,False
+2,1eq9ncb,AI usage,18,30,FrostDuke,2024-08-12 09:55:20,https://www.reddit.com/r/dataengineering/comments/1eq9ncb/ai_usage/,False,False,False,False
+3,1eqx7fu,How much data science to learn as a data engineer?,16,12,khaili109,2024-08-13 02:54:55,https://www.reddit.com/r/dataengineering/comments/1eqx7fu/how_much_data_science_to_learn_as_a_data_engineer/,False,False,False,False
+4,1eqvcmg,The Line Between DevOps and Data Engineering,10,3,AMDataLake,2024-08-13 01:24:40,https://www.reddit.com/r/dataengineering/comments/1eqvcmg/the_line_between_devops_and_data_engineering/,False,False,False,False
+5,1eqko94,Complexity in transformations,9,9,DistributionOk5349,2024-08-12 18:02:23,https://www.reddit.com/r/dataengineering/comments/1eqko94/complexity_in_transformations/,False,False,False,False
+6,1eqviv0,Joining the Job Hunt,8,9,Professional_Peak983,2024-08-13 01:33:07,https://www.reddit.com/r/dataengineering/comments/1eqviv0/joining_the_job_hunt/,False,False,False,False
+7,1eqccco,How do you guys store your datasets on a local machine?,8,34,ultra_zero_cool,2024-08-12 12:25:36,https://www.reddit.com/r/dataengineering/comments/1eqccco/how_do_you_guys_store_your_datasets_on_a_local/,False,False,False,False
+8,1eqrh2n,A Python Package for Alibaba Data Extraction,6,1,7_hole,2024-08-12 22:33:13,https://www.reddit.com/r/dataengineering/comments/1eqrh2n/a_python_package_for_alibaba_data_extraction/,False,False,False,False
+9,1eqc6ct,Azure Data Factory - flatten JSON while retaining order of array elements,7,3,LoudScreamingGoat,2024-08-12 12:17:44,https://www.reddit.com/r/dataengineering/comments/1eqc6ct/azure_data_factory_flatten_json_while_retaining/,False,False,False,False
+10,1eqz6ca,What to learn or where to start,5,1,Lurch1400,2024-08-13 04:40:27,https://www.reddit.com/r/dataengineering/comments/1eqz6ca/what_to_learn_or_where_to_start/,False,False,False,False
+11,1eqh379,When should you create a metrics layer?,6,4,pipeline_wizard,2024-08-12 15:43:27,https://www.reddit.com/r/dataengineering/comments/1eqh379/when_should_you_create_a_metrics_layer/,False,False,False,False
+12,1eqbw07,"How Can I, a Traditional Data Scientist Focused on NLP, Upskill in DE and MLOps?",5,1,maxwoob,2024-08-12 12:03:39,https://www.reddit.com/r/dataengineering/comments/1eqbw07/how_can_i_a_traditional_data_scientist_focused_on/,False,False,False,False
+13,1eqqdx0,Snowflake GenAI pipeline pricing,4,2,MONAGRAW,2024-08-12 21:48:20,https://www.reddit.com/r/dataengineering/comments/1eqqdx0/snowflake_genai_pipeline_pricing/,False,False,False,False
+14,1er1pr5,Semantic Layer,3,0,vuncentV7,2024-08-13 07:26:05,https://www.reddit.com/r/dataengineering/comments/1er1pr5/semantic_layer/,False,False,False,False
+15,1eq9r7o,ETL of data in Excel files,3,3,geo_will989,2024-08-12 10:02:03,https://www.reddit.com/r/dataengineering/comments/1eq9r7o/etl_of_data_in_excel_files/,False,False,False,False
+16,1er1hhx,Messaging tool that can be used with Azure synapse analytics ,2,0,Evening_Mouse_9582,2024-08-13 07:10:53,https://www.reddit.com/r/dataengineering/comments/1er1hhx/messaging_tool_that_can_be_used_with_azure/,False,False,False,False
+17,1er093i,Electrical Engineer to Data Engineer ,0,4,Brief-Olive,2024-08-13 05:47:47,https://www.reddit.com/r/dataengineering/comments/1er093i/electrical_engineer_to_data_engineer/,False,False,False,False
+18,1equ8od,Best Approach or Best Practices?,2,0,Better_Volume_2839,2024-08-13 00:33:36,https://www.reddit.com/r/dataengineering/comments/1equ8od/best_approach_or_best_practices/,False,False,False,False
+19,1eqcvri,No or (Very) Low Code UI for querying in Athena?,2,6,JimiZeppelin1012,2024-08-12 12:50:59,https://www.reddit.com/r/dataengineering/comments/1eqcvri/no_or_very_low_code_ui_for_querying_in_athena/,False,False,False,False
+20,1eq8h4e,Shift Left in Data Engineering ,4,0,nydasco,2024-08-12 08:34:51,https://medium.com/@nydas/4-key-benefits-of-shift-left-ff0e4bb74a3f?source=friends_link&sk=0941f5164f5115f6fe88191f0b1b9683,False,False,False,False
+21,1er1f2i,Airflow with DataProc,1,0,Suspicious-One-9296,2024-08-13 07:06:25,https://www.reddit.com/r/dataengineering/comments/1er1f2i/airflow_with_dataproc/,False,False,False,False
+22,1er16uu,How would you describe the differences between an OLAP cube and OBT (One Big Table)?,1,1,Sam___D,2024-08-13 06:51:25,https://www.reddit.com/r/dataengineering/comments/1er16uu/how_would_you_describe_the_differences_between_an/,False,False,False,False
+23,1eqadsi,Manual Input Solutions,1,12,Comprehensive-Set-77,2024-08-12 10:41:23,https://www.reddit.com/r/dataengineering/comments/1eqadsi/manual_input_solutions/,False,False,False,False
+24,1er0iwl,DE or SE in this Market?,2,3,Professional_Peak983,2024-08-13 06:05:42,https://www.reddit.com/r/dataengineering/comments/1er0iwl/de_or_se_in_this_market/,False,False,False,False
+25,1eqdquc,AI Augmentation to Scale Data Products to a Data Product Ecosystem,0,3,growth_man,2024-08-12 13:28:30,https://moderndata101.substack.com/p/ai-augmentation-to-scale-data-products,False,False,False,False
+26,1eqb42x,HOW APACHE ICEBERG CATALOGS WORK,0,9,AMDataLake,2024-08-12 11:22:56,https://i.redd.it/6ynlxdnpw7id1.jpeg,False,False,False,False

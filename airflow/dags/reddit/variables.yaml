@@ -1,0 +1,32 @@
+MSSQL_DATABASE:
+  DB_NAME: <database name>
+  USER: <username>
+  PASSWORD: <password>
+  
+
+REDDIT:
+  CLIENT_ID: <client id>
+  CLIENT_SECRET: <client secret>
+  USER_AGENT: <user agent>
+
+
+dataengineering:
+  LIMIT: 100
+  TIME_FILTER: 'day'
+  POST_FIELDS: [
+          'id',
+          'title',
+          'score',
+          'num_comments',
+          'author',
+          'created_utc',
+          'url',
+          'over_18',
+          'edited',
+          'spoiler',
+          'stickied'
+        ]
+
+AWS:
+  AWS_ACCESS_KEY_ID: <aws access key id>
+  AWS_SECRET_ACCESS_KEY: <aws secret access key>
